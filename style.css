@@ -54,7 +54,7 @@ main {
     display: flex;
     border-radius: 15px;
     width: 852px;
-    height: 450px;
+    height: 485px;
 }
 
 .card {
@@ -156,7 +156,9 @@ main {
         border-bottom-left-radius: 0px;
     }
 
-    .lightblue {}
+    .card p {
+        font-size: 12px;
+    }
 
     .darkblue {
         border-top-right-radius: 0px;
